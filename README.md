@@ -1,11 +1,18 @@
 
 👋 Hi, I’m Parv Modi
 
-🚀 Full-Stack MERN Developer | CS Student
-A Full-Stack MERN Developer with strong hands-on experience in building real-world web applications.
-I work extensively with React, Node.js, Express, MongoDB, and modern tools like Vite, Tailwind CSS, and AI integrations.
-I’ve built advanced projects such as AI-powered healthcare apps, trading/charting tools (TradingView-like features), admin panels, e-commerce systems, and AI resume builders. I enjoy solving complex UI/logic problems, especially in charts, indicators, and real-time data handling.
-I’m continuously learning DSA, Java, DBMS, and exploring AI + full-stack solutions, with a strong focus on building practical, scalable, and user-friendly products.
+🚀 Full-Stack MERN Developer | Computer Science Student
+💻 I build production-ready web applications, not demo projects.
+
+I specialize in React, Node.js, Express, MongoDB, and modern tooling like Vite & Tailwind CSS.
+I’ve built AI-powered healthcare platforms, TradingView-like charting tools, admin dashboards, e-commerce systems, and AI resume builders.
+
+⚡ Strong at complex UI logic, real-time data, charts & indicators
+📈 Focused on scalable, clean, and performance-driven solutions
+
+🎯 Currently leveling up DSA, Java, DBMS & System Design
+
+📫 Open to startups, internships, hackathons & serious collaborations
 
 
 ## 🌐 Socials:
