@@ -16,7 +16,9 @@ I’ve built AI-powered healthcare platforms, TradingView-like charting tools, a
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parv-modi-b7b8422a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parvmodi11@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parv%20Modi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parv-modi-b7b8422a5/)
+[![Email](https://img.shields.io/badge/Email-parvmodi11%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parvmodi11@gmail.com)
+
 
 # 💻 Tech Stack:
 <p align="left">
