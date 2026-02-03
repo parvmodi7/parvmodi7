@@ -17,7 +17,7 @@ I’ve built AI-powered healthcare platforms, TradingView-like charting tools, a
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/parv-modi-b7b8422a5/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+ https://www.linkedin.com/in/parv-modi-b7b8422a5/
 </a>
 <a href="mailto:parvmodi11@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
