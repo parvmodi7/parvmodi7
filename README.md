@@ -1,5 +1,4 @@
-
-👋 Hi, I’m Parv Modi
+<h1>👋 Hi, I’m Parv Modi</h1>
 
 🚀 Full-Stack MERN Developer | Computer Science Student
 💻 I build production-ready web applications, not demo projects.
