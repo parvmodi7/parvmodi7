@@ -11,7 +11,7 @@ I’ve built AI-powered healthcare platforms, TradingView-like charting tools, a
 
 🎯 Currently leveling up DSA, Java, DBMS & System Design.
 
-📫 Open to startups, internships, hackathons & serious collaborations.
+📫 Open to startups, internships, hackathons & serious collaborations
 
 
 ## 🌐 Socials:
