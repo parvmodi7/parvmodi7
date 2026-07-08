@@ -1,45 +1,100 @@
-<h1>👋 Hi, I’m Parv Modi</h1>
+<div align="center">
 
-🚀 Full-Stack MERN Developer | Computer Science Student
-💻 I build production-ready web applications, not demo projects.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/parvmodi7/parvmodi7/main/assets/banner.svg" width="100%" />
+</div>
 
-I specialize in React, Node.js, Express, MongoDB, and modern tooling like Vite & Tailwind CSS.
-I’ve built AI-powered healthcare platforms, TradingView-like charting tools, admin dashboards, e-commerce systems, and AI resume builders.
+<br/>
 
-⚡ Strong at complex UI logic, real-time data, charts & indicators.
-📈 Focused on scalable, clean, and performance-driven solutions.
-
-🎯 Currently leveling up DSA, Java, DBMS & System Design.
-
-📫 Open to startups, internships, hackathons & serious collaborations
-
-
-## 🌐 Socials:
-Linkdin: <a href="https://www.linkedin.com/in/parv-modi-b7b8422a5/" target="_blank">
- https://www.linkedin.com/in/parvmodi7
+<a href="https://www.linkedin.com/in/parv-modi-b7b8422a5/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<br>
-Email: <a href="mailto:parvmodi11@gmail.com">
-parvmodi11@gmail.com
+<a href="mailto:parvmodi11@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/parvmodi7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+</div>
+
+<br/>
+
+```bash
+┌─[parv@devbox]─[~]
+└──╼ $ cat about.txt
+
+  > CS student, obsessed with shipping real products — not tutorials.
+  > Specialize in complex UI logic, real-time data, and custom charting/indicator engines.
+  > Currently grinding: DSA · Java · DBMS · System Design
+  > Mission: build fast, scalable, clean software that actually solves problems.
+
+┌─[parv@devbox]─[~]
+└──╼ $ open_to --startups --internships --hackathons --collabs ✅
+```
+
+<br/>
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,redux,tailwind,nodejs,express,mongodb,postgresql,git,github,vscode,postman,docker,vercel&theme=dark&perline=9" />
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🧠 Core Strength
+```text
+Frontend Architecture    ████████████████░░  90%
+Backend / API Design     ███████████████░░░  85%
+Real-time Data & Charts  ████████████████░░  88%
+Database Design          ██████████████░░░░  78%
+DSA / Problem Solving    █████████████░░░░░  70%
+```
+
+</td>
+<td valign="top" width="50%">
+
+### 🎯 Currently Building
+```text
+🏥 AI-powered healthcare platform
+📈 TradingView-style charting engine
+🧾 AI resume builder
+🛒 Full-stack e-commerce system
+📊 Real-time admin dashboards
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 
-# 💻 Tech Stack:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-</p>
+## 📈 Activity Graph
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvmodi7&bg_color=0d0d0d&color=ffffff&line=ff9a00&point=ff9a00&area=true&area_color=ff9a00&hide_border=true&radius=16&custom_title=Contribution%20Activity" />
+</div>
 
+<br/>
 
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💬 Let's Build Something
+
+I'm always down for a good technical conversation, a hard problem, or a project worth shipping.
+
+<a href="https://www.linkedin.com/in/parv-modi-b7b8422a5/" target="_blank"><b>Connect on LinkedIn</b></a> &nbsp;·&nbsp; <a href="mailto:parvmodi11@gmail.com"><b>Drop me an email</b></a>
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a00,35:e0227a,70:8e2de2,100:1a0033&height=120&section=footer" /> -->
+
+<sub>⭐ If any of this resonates, a star on my repos always makes my day.</sub>
+
+</div>
