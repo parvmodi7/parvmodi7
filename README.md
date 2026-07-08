@@ -77,11 +77,7 @@ DSA / Problem Solving    █████████████░░░░░ 
 <br/>
 
 
-## 📈 Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvmodi7&bg_color=0d0d0d&color=ffffff&line=ff9a00&point=ff9a00&area=true&area_color=ff9a00&hide_border=true&radius=16&custom_title=Contribution%20Activity" />
-</div>
 
 <br/>
 
