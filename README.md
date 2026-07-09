@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/parv-modi-b7b8422a5/" target="_blank">
+<a href="https://www.linkedin.com/in/parvmodi7/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:parvmodi11@gmail.com">
