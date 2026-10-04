@@ -5,19 +5,21 @@
 </div>
 
 <br/>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/parvmodi7/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-parvmodi7-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" />
-  </a>
-  <a href="mailto:parvmodi11@gmail.com">
-    <img src="https://img.shields.io/badge/email-parvmodi11%40gmail.com-238636?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
-  </a>
-  <a href="https://github.com/parvmodi7" target="_blank">
-    <img src="https://img.shields.io/badge/github-parvmodi7-8957e5?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="GitHub" />
-  </a>
-</div>
 
+<a href="https://www.linkedin.com/in/parvmodi7/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:parvmodi11@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/parvmodi7" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+</div>
 </div>
 
 <br/>
@@ -38,34 +40,9 @@
 
 <br/>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### Core Strength
-```text
-Frontend Architecture    ████████████████░░  90%
-Backend / API Design     ███████████████░░░  85%
-Real-time Data & Charts  ████████████████░░  88%
-Database Design          ██████████████░░░░  78%
-DSA / Problem Solving    █████████████░░░░░  70%
-```
-
-</td>
-<td valign="top" width="50%">
-
-### Currently Building
-```text
- AI-powered healthcare platform
- TradingView-style charting engine
- AI resume builder
- Full-stack e-commerce system
- Real-time admin dashboards
-```
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/parvmodi7/parvmodi7/main/assets/stack.svg" width="100%" />
+</div>
 
 <br/>
 
