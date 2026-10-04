@@ -50,17 +50,3 @@
 
 
 <br/>
-
-<div align="center">
-
-### Let's Build Something
-
-I'm always down for a good technical conversation, a hard problem, or a project worth shipping.
-
-<a href="https://www.linkedin.com/in/parv-modi-b7b8422a5/" target="_blank"><b>Connect on LinkedIn</b></a> &nbsp;·&nbsp; <a href="mailto:parvmodi11@gmail.com"><b>Drop me an email</b></a>
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a00,35:e0227a,70:8e2de2,100:1a0033&height=120&section=footer" /> -->
-
-<sub>If any of this resonates, a star on my repos always makes my day.</sub>
-
-</div>
